@@ -1,5 +1,5 @@
 ﻿repeat task.wait(0.1) until game:GetService('Players').LocalPlayer task.wait(1/2)
-loadstring(game:HttpGet('https://raw.githubusercontent.com/M1nory/IV-cracked-just-the-imports/main/Script38.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/M1nory/old-iv-admin-bypassed/main/Script38.lua'))()
 
 print('Not ur admin');
 print('Not ur admin');
